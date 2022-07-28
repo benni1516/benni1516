@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @benni1516, I'm new
-- 👀 I’m interested in PHP
-- 📫 How to reach me ledl.benni@gmail.com
+- Hi, I’m benni, I'm new
+- How to reach me ledl.benni@gmail.com

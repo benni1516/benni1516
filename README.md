@@ -1,2 +1,2 @@
-- Hi, I’m benni, I'm new
+- Hi, I’m benni, I'm new sorry if I make mistakes
 - How to reach me ledl.benni@gmail.com
